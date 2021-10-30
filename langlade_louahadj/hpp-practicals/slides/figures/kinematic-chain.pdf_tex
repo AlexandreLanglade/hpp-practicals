@@ -1,0 +1,79 @@
+%% Creator: Inkscape inkscape 0.92.5, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'kinematic-chain.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{543.00840569bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.5706409)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{kinematic-chain.pdf}}%
+    \put(0.34038793,0.40886896){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}SE(3)\end{tabular}}}}%
+    \put(0.06776061,0.16238392){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}R1\end{tabular}}}}%
+    \put(0.29683366,0.18165058){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}R1\end{tabular}}}}%
+    \put(0.42429817,0.18017071){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}R1\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{kinematic-chain.pdf}}%
+    \put(0.06094545,0.02447695){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}R1\end{tabular}}}}%
+    \put(0.29851084,0.03613191){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}R1\end{tabular}}}}%
+    \put(0.42775116,0.0366252){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}R1\end{tabular}}}}%
+    \put(0.69481103,0.52173227){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$q_0$\end{tabular}}}}%
+    \put(0.71971895,0.29870211){\color[rgb]{0,0,0}\rotatebox{92.309703}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}...\end{tabular}}}}}%
+    \put(0.7249466,-0.0056269){\color[rgb]{0,0,0}\rotatebox{92.309703}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}...\end{tabular}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{kinematic-chain.pdf}}%
+    \put(0.69382921,0.39619508){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$q_6$\end{tabular}}}}%
+    \put(0.70548186,0.22317205){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$q_i$\end{tabular}}}}%
+    \put(0.70449991,0.15623396){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$q_{i+1}$\end{tabular}}}}%
+    \put(0.7045,0.09763488){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$q_{i+2}$\end{tabular}}}}%
+    \put(0.04962512,0.35764968){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\body_0$\end{tabular}}}}%
+    \put(-0.00249317,0.24969736){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\body_1$\end{tabular}}}}%
+    \put(-0.004586,0.11436129){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}$\body_2$\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{kinematic-chain.pdf}}%
+    \put(0.72381306,0.43602275){\color[rgb]{0,0,0}\rotatebox{92.309703}{\makebox(0,0)[lt]{\lineheight{0}\smash{\begin{tabular}[t]{l}...\end{tabular}}}}}%
+  \end{picture}%
+\endgroup%
